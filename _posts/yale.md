@@ -10,10 +10,21 @@ ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+# **Background**
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Yale University is a private university located in New Haven, Connecticut (United States). Member of the select Ivy League, Yale is the third oldest institution of higher education in the United States and one of nine colonial colleges recognized with a Royal Charter from the British monarch before the Revolution of the Thirteen Colonies.
 
-## Lorem Ipsum
+# **Goals**
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+- Improving the visual design for a fresh, trend and innovate minimalist interface
+- Clear the elements in each section
+- Help users with better prompts, states and answers of the system
+
+# **Challenges**
+
+On many occasions, websites belonging to the educational sector focus solely on delivering information (both structured and unstructured) to their potential clients, overlooking the user experience and interaction with each element of the website. This results in websites that are difficult to navigate, understand, and remember. The website of the Yale School of Art exhibits these same user experience errors and the improper application of usability principles.
+
+- Positioning the website through assertive communication
+- Creating differentiation/added value in the promotional tone of the website
+- Developing dynamic elements to enhance interaction on the website
+- Building flows that allow users to successfully complete each menu journey.

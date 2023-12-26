@@ -1,5 +1,5 @@
 ---
-title: 'Redesigning VisitMelbourne'
+title: 'Creating the website to the Yale University'
 excerpt: 'Visit Melbourne is a website where you can find out everything about the city, being more specific is a site created for tourist, foreign and everybody that want to plan an activity. That website was builded for the government of Australia.'
 coverImage: '/assets/blog/preview/presentation.png'
 date: '2020-03-16T05:35:07.322Z'

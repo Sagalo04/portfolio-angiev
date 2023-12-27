@@ -118,6 +118,12 @@ In the old core option, you could figure out the option “explore by region” 
 
 Others changes were some descriptions and call-to-actions that allowing a better experience to users doing more comfortable to explore.
 
+# **Some screens**
+&ensp;
+![Image de ejemplo](/assets/blog/hello-world/post2.png)
+&ensp;
+
+
 # **What’s next**
 
 I will validate all the design decisions based on the performance of key metrics such as usability test and interviews.

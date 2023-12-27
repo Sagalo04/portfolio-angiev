@@ -10,7 +10,7 @@ const Intro = () => {
           <br />I'm Angie Varela
         </h1>
         <p className="text-lg leading-relaxed mb-4">
-          UI/UX Designer passionate about crafting comfortable and adaptable products integrating emotions into digital experiences. I've foundation in development and programming to ensure optimal user interfaces. being user-friendly designs, let's to create!.</p>
+          UI/UX Designer passionate about crafting comfortable and adaptable products integrating emotions into digital experiences. I've foundation in development and programming to ensure optimal user interfaces, being user-friendly designs, let's to create!.</p>
       </div>
 
       {/*  <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">

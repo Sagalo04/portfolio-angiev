@@ -19,6 +19,22 @@ Yale University is a private university located in New Haven, Connecticut (Unite
 - Improving the visual design for a fresh, trend and innovate minimalist interface
 - Clear the elements in each section
 - Help users with better prompts, states and answers of the system
+&ensp;
+
+&ensp;
+![Image de ejemplo](/assets/blog/preview/mood.png)
+&ensp;
+
+# **Final design**
+&ensp;
+![Image de ejemplo](/assets/blog/preview/flow.png)
+&ensp;
+
+&ensp;
+![Image de ejemplo](/assets/blog/preview/post.png)
+&ensp;
+
+*Screens more clear to allow users take advantage of all the content*.
 
 # **Challenges**
 

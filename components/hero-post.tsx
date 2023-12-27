@@ -29,7 +29,7 @@ const HeroPost = ({
       <div className="md:grid place-items-center md:grid-cols-1 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
       <div className='md:w-1/2'>
           <p className="text-lg leading-relaxed mb-4">
-          UI/UX Designer passionate about crafting comfortable and adaptable products integrating emotions into digital experiences. I've foundation in development and programming to ensure optimal user interfaces. being user-friendly designs, let's to create!.</p>
+          UI/UX Designer passionate about crafting comfortable and adaptable products integrating emotions into digital experiences. I've foundation in development and programming to ensure optimal user interfaces, being user-friendly designs, let's to create!.</p>
         </div>
         {/* <div> 
           <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">

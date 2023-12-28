@@ -4,7 +4,7 @@ const Intro = () => {
   return (
     <section className="flex-col flex items-center md:justify-center mt-16 mb-16 md:mb-12">
 
-      <div className="grid place-items-center grid-cols-1 md:grid-cols-1 md:gap-x-16 mb-12 w-1/2">
+      <div className="grid place-items-center grid-cols-1 md:grid-cols-1 md:gap-x-16 mb-12 md:w-1/2">
         <h1 className="justify-self-start  text-5xl md:text-7xl font-bold tracking-tighter leading-tight mb-8">
           Greetings!
           <br />I'm Angie Varela

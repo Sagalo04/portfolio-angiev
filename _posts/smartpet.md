@@ -20,6 +20,7 @@ This investigation project had a lot of variables to analice because the softwar
 Why not create an app available for cell phones? The goal was to enhance the experience and effectiveness of the service by exclusively offering it on smartwatches. Since cell phones are prone to numerous notifications and distractions, there is a risk of important alerts or notices about the pet's status being ignored. For this reason, the smartwatch ensures that the user's attention remains focused on the app.
 
 This system is capable of sensing health variables in real time remotely, providing deeper and more professional care for the pet from anywhere.
+
 &ensp;
 ![Image de ejemplo](/assets/blog/pet/pet.png)
 &ensp;

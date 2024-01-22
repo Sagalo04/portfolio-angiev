@@ -22,5 +22,7 @@ Why not create an app available for cell phones? The goal was to enhance the exp
 This system is capable of sensing health variables in real time remotely, providing deeper and more professional care for the pet from anywhere.
 
 &ensp;
+&ensp;
+
 ![Image de ejemplo](/assets/blog/pet/pet.png)
 &ensp;

@@ -1,7 +1,7 @@
 ---
-title: 'Hello'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/image1.jpg'
+title: 'DINO WALLET'
+excerpt: 'DINO WALLET allow to users make things without need to go to the bank and have support of each funcionality to minimize the need for human assitance.'
+coverImage: '/assets/blog/preview/4.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: JJ Kasper

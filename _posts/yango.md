@@ -37,5 +37,6 @@ Goals:
 - ⁠Competitor analysis is the best way to understand how the current market is working, how Yango is incorporated, and how we are/will be different.
 - ⁠Heuristic evaluation to determine best practices.
 - ⁠Leverage findings to make design decisions.
+&ensp;
 ![Image de ejemplo](/assets/blog/yango/flow.png)
 &ensp;

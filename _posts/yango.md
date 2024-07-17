@@ -129,7 +129,6 @@ Create a redesign focus on a fresh appearance that gives users the feeling of se
 
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/flow2.png)
-Screen of a real User navigating into Yango App.
 &ensp;
 
 &ensp;

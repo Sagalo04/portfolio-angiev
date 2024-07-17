@@ -131,9 +131,6 @@ Create a redesign focus on a fresh appearance that gives users the feeling of se
 ![Image de ejemplo](/assets/blog/yango/flow2.png)
 &ensp;
 
-&ensp;
-
-&ensp;
 ![Image de ejemplo](/assets/blog/yango/flow3.png)
 &ensp;
 

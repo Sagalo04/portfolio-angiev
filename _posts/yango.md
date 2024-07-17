@@ -59,7 +59,7 @@ Flow used to perform the heuristic evaluation of the Yango user experience.
 
 &ensp;
 
-**Usability testing**
+# **Usability testing**
 
 User testing involves gathering feedback directly from users by having them interact with the current product. This process helps identify pain points, usability issues, and areas where users might struggle or find the product confusing. Some important things to consider were: system failures, false charges, insecurity, and issues with app functionalities.
 &ensp;
@@ -70,3 +70,46 @@ Screen of a real User navigating into Yango App.
 &ensp;
 
 &ensp;
+# **Brainstorming and strategy development**
+
+Brainstorming is crucial to generate diverse ideas, fosters creativity, and promotes collaboration. It helps in exploring and understanding user needs, supports the iterative design process, and facilitates for effective decision-making to design user-friendly interface. The goal is visualize and categorizing them by themes and find patterns into the data gathered.
+
+**Key touchpoints**
+
+- Categotice the emergency themes to make decisions to shape the vision that the project will have.
+- Understaind the current experience and what need to change to improve.
+
+# **Strategy development - Emergency themes**
+
+*Community*
+
+- You are not only requesting a cheaper ride but also a safe and reliable journey. You need answers if any questions appear during the trip to feel – "closeness with a human interaction."
+- How reliable is the user to debit the fare before being picked up?
+
+*Visual Experience*
+
+- There is no consistency among the white spaces.
+- There is a set group of typography sizes, but it is not being well used.
+- The colour contrasts are dark.
+- The icons are not consistent.
+- Be mindful of the icons used to communicate actions.
+- Should the card sent to the website?
+- The loading sign takes a long time to load the content.
+
+*Content*
+
+- The brand's tone is straightforward, formal, and sober.
+- Are there emergency buttons? Where?
+
+*Resources*
+
+- Make the emergency button visible.
+- Initiate payment when the driver ends the trip.
+- Improve the visual hierarchy of the app.
+
+*Feedback*
+
+- Performance issues affect the experience.
+- We have two KPIs to measure the app experience.
+1. The experience between the user and the app.
+2. The experience between the passenger and the driver.

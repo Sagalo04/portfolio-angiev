@@ -15,8 +15,15 @@ Yango is a ride-hailing service that gets people where they want to go quickly, 
 
 # **Approach**
 
-Editing, please wait...
-&ensp;
+I divided the re-design of experience in three phases:
+
+Discovery, Needs & Ideation, Design decisions. 
+
+<b> Discovery:</b>Competitors analyze, User research and User testing.
+
+Needs & Ideation: Brainstorming & strategy development.
+
+Design decisions: User flow, wireframes fidelity-screens.
 &ensp;
 
 ![Image de ejemplo](/assets/blog/yango/flow.png)

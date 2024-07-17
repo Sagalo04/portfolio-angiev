@@ -19,11 +19,11 @@ I divided the re-design of experience in three phases:
 
 Discovery, Needs & Ideation, Design decisions. 
 
-Discovery: Competitors analysis, User research and User testing.
+**Discovery:** Competitors analysis, User research and User testing.
 
-Needs & Ideation: Brainstorming & strategy development.
+**Needs & Ideation:** Brainstorming & strategy development.
 
-Design decisions: User flow, wireframes fidelity-screens.
+**Design decisions:** User flow, wireframes fidelity-screens.
 
 # **Research and Discovery**
 
@@ -33,9 +33,9 @@ I approached to opinions, commenst on Appstore, Playstore, social media to condu
 
 Goals:
 
-•⁠  ⁠Discover hidden usability issues that prevent users from having an experience that fits with their needs.
-•⁠  ⁠Competitor analysis is the best way to understand how the current market is working, how Yango is incorporated, and how we are/will be different.
-•⁠  ⁠Heuristic evaluation to determine best practices.
-•⁠  ⁠Leverage findings to make design decisions.
+- ⁠Discover hidden usability issues that prevent users from having an experience that fits with their needs. 
+- ⁠Competitor analysis is the best way to understand how the current market is working, how Yango is incorporated, and how we are/will be different.
+- ⁠Heuristic evaluation to determine best practices.
+- ⁠Leverage findings to make design decisions.
 ![Image de ejemplo](/assets/blog/yango/flow.png)
 &ensp;

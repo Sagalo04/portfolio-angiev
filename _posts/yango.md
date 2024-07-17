@@ -51,18 +51,22 @@ its an important step into the process familiarize with the product, its goals, 
 - ⁠Discover how to connect the user with a safe space in the App.
 - ⁠Evalue with the same criteria the other competitors.
 &ensp;
+
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/map.png)
 Flow used to perform the heuristic evaluation of the Yango user experience.
 &ensp;
+
 &ensp;
 
 **Usability testing**
 
 User testing involves gathering feedback directly from users by having them interact with the current product. This process helps identify pain points, usability issues, and areas where users might struggle or find the product confusing. Some important things to consider were: system failures, false charges, insecurity, and issues with app functionalities.
 &ensp;
+
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/testing.png)
 Screen of a real User navigating into Yango App.
 &ensp;
+
 &ensp;

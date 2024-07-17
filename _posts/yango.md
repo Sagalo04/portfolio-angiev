@@ -24,7 +24,7 @@ Discovery: Competitors analyze, User research and User testing.
 Needs & Ideation: Brainstorming & strategy development.
 
 Design decisions: User flow, wireframes fidelity-screens.
-&ensp;
 
+# **Research and Discovery**
 ![Image de ejemplo](/assets/blog/yango/flow.png)
 &ensp;

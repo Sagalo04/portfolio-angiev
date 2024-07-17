@@ -43,6 +43,14 @@ Goals:
 The competitor analysis helped to evaluate individual and common things also the subservices from the main sercies that each one offer. One of the most important I found was the gold rule of this market "Dynamic pricing, the higher the demand, the higher the price". Finally, I found multiple differences between Yango and its competitors.
 
 # **Heuristic Analysis**
+
+its an important step into the process familiarize with the product, its goals, target audience, and business objectives. I found specifiy areas that need evaluation and rethink the communication strategy in some areas to communicate in a more appropriate and coherent way for the user through experience and visual design. 
+
+**Key touchpoints**
+
+- ⁠Discover how to connect the user with a safe space in the App.
+- Some important things to consider like system failures, false charges, insecurity, and issues with app functionalities.
+- ⁠Evalue with the same criteria the other competitors.
 &ensp;
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/map.png)

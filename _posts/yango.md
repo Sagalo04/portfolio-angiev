@@ -120,3 +120,16 @@ Create a redesign focus on a fresh appearance that gives users the feeling of se
 
 # **Design Decisions**
 
+**User:** Provide the user with functionalities to enhance their safety before, during, and after the trip.
+
+**Business:** Connect Yango's culture with the app.
+
+**Product:** Create a more user-friendly visual hierarchy.
+&ensp;
+
+&ensp;
+![Image de ejemplo](/assets/blog/yango/flow2.png)
+Screen of a real User navigating into Yango App.
+&ensp;
+
+&ensp;

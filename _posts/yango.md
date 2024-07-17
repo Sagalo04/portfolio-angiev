@@ -41,6 +41,8 @@ Goals:
 # **Competitor Analysis**
 
 The competitor analysis helped to evaluate individual and common things also the subservices from the main sercies that each one offer. One of the most important I found was the gold rule of this market "Dynamic pricing, the higher the demand, the higher the price". Finally, I found multiple differences between Yango and its competitors.
+
+# **Heuristic Analysis**
 &ensp;
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/map.png)

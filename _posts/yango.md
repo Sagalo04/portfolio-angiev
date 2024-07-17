@@ -19,7 +19,7 @@ I divided the re-design of experience in three phases:
 
 Discovery, Needs & Ideation, Design decisions. 
 
-<b> Discovery:</b>Competitors analyze, User research and User testing.
+Discovery: Competitors analyze, User research and User testing.
 
 Needs & Ideation: Brainstorming & strategy development.
 

@@ -54,5 +54,6 @@ its an important step into the process familiarize with the product, its goals, 
 &ensp;
 &ensp;
 ![Image de ejemplo](/assets/blog/yango/map.png)
+Flow used to perform the heuristic evaluation of the Yango user experience.
 &ensp;
 &ensp;

@@ -113,3 +113,10 @@ Brainstorming is crucial to generate diverse ideas, fosters creativity, and prom
 - We have two KPIs to measure the app experience.
 1. The experience between the user and the app.
 2. The experience between the passenger and the driver.
+
+# **What is the project's vision?**
+
+Create a redesign focus on a fresh appearance that gives users the feeling of security and confidence to pursue an engage with our users.
+
+# **Design Decisions**
+

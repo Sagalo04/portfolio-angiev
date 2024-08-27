@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               You can find more in {' '}
               <a
-                href={`https://www.behance.net/angievarela`} 
+                href={'https://dribbble.com/angievarela'} 
                 target='_blank'
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >

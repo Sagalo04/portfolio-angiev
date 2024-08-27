@@ -17,7 +17,7 @@ const Footer = () => {
               Contact me 
             </a>
             <a
-              href={`https://www.linkedin.com/in/diseñadora-angievarela/`}
+              href={`https://www.linkedin.com/in/angievarela-uiuxdesigner/`}
               target='_blank'
               className="mx-3 font-bold hover:underline"
             >
